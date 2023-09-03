@@ -20,7 +20,7 @@
 <a href="https://twitter.com/alehholiveira_" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-twitter-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://www.linkedin.com/in/alexandre-oliveira-b53595249/" target="_blank">
+<a href="https://www.linkedin.com/in/alehholiveira/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/alehholiveira_" target="_blank">
