@@ -3,29 +3,27 @@
 
 <div align="left">
   <a href="https://github.com/alehholiveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehholiveira&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alehholiveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=alehholiveira&show_icons=true&locale=en&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alehholiveira&show_icons=true&locale=en"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="40" />         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="40" />         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="40" />          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="40" />           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="40" />
 
-</div>
-
-<br>
-
-## Contatos
-
-<p align="left" style="background:yellow">
-<a href="https://twitter.com/alehholiveira_" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-twitter-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://www.linkedin.com/in/alehholiveira/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/alehholiveira_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+<h3 align="left">Redes Sociais para contato:</h3>
+<p align="left">
+<a href="https://twitter.com/alehholiveira_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alehholiveira_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alehholiveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alehholiveira" height="30" width="40" /></a>
 </p>
-              
-          
+
+<div>
+  <h3>Linguagens e Tecnologias:</h3>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="30" height="30">
+</div>
+
