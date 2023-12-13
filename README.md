@@ -1,10 +1,14 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo Alexandre !</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alehholiveira&color=blueviolet" alt="Profile views" /> </p>
 
+<p align="left"> 
+      Ola! Tenho 19 anos e sou <strong>programador</strong>. Estou cursando <strong>Engenharia de Computação</strong> e sempre buscando aprender coisas novas.
+</p>
+
 <div align="left">
   <a href="https://github.com/alehholiveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=alehholiveira&show_icons=true&locale=en&layout=compact"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alehholiveira&show_icons=true&locale=en"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=alehholiveira&show_icons=true&locale=pt-br&layout=compact&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alehholiveira&show_icons=true&locale=pt-br&theme=react"/>
 </div>
 
 
