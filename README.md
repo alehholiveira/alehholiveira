@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alehholiveira&color=blueviolet" alt="Profile views" /> </p>
 
 <p align="left"> 
-      Ola! Tenho 20 anos e sou <strong>programador</strong>. Estou cursando <strong>Engenharia de Computação</strong> e sempre buscando aprender coisas novas. Ultimamente tenho tido muito interesse nas técnologias de desenvolvimento Web.
+      Ola! Tenho 20 anos e sou <strong>programador</strong>. Estou cursando <strong>Engenharia de Computação</strong> e sempre buscando aprender coisas novas. Ultimamente tenho tido muito interesse nas área de Desenvolvimento Web e Machine Learning.
 </p>
 
 <div align="left">
@@ -21,13 +21,22 @@
 <div>
   <h3>Linguagens e Tecnologias:</h3>
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=ts" alt="ts" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=c" alt="C" width="30" height="30">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="30" height="30">
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="30" height="30">
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="node" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=django" alt="django" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="sql" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="30" height="30">
 </div>
 
