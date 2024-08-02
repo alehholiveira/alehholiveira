@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alehholiveira&color=blueviolet" alt="Profile views" /> </p>
 
 <p align="left"> 
-      Ola! Tenho 20 anos e sou <strong>programador</strong>. Estou cursando <strong>Engenharia de Computação</strong> e sempre buscando aprender coisas novas. Ultimamente tenho tido muito interesse nas área de Desenvolvimento Web e Machine Learning.
+      Ola! Tenho 20 anos e sou <strong>programador</strong>. Estou cursando <strong>Engenharia de Computação</strong> e sempre buscando aprender coisas novas. Tenho interesse nas área de Desenvolvimento Backend e Machine Learning.
 </p>
 
 <div align="left">
