@@ -11,7 +11,7 @@
   </a>
   <br />
 </div>
-<h3 align="center">Redes Sociais para contato:</h3>
+<h3 align="center">Social Media:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/alehholiveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alehholiveira" height="30" width="40" /></a>
 </p>
